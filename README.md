@@ -123,6 +123,8 @@ Begin with a concise checklist outlining your conceptual approach to quantum ris
 - Gemini + Google AI Studio (ideation + security logic design)
 - Google App Studio (core app development)
 - Google Stitch (UI design + prototyping)
+- Base44 (UI design + prototyping)
+- Figma (UI design + prototyping)
 - Google Opal (interaction testing + refinement)
 - React + TypeScript
 - Material Design principles
