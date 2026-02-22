@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Fintech Shield",
+  "description": "Evaluates financial encryption risks against quantum threats, suggests migration strategies, and simulates secure transactions.",
+  "requestFramePermissions": []
+}
